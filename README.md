@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Silvia-idk
 - 👀 I’m interested in learning Python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and SQL
 
 
